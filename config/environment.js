@@ -3,7 +3,7 @@
 
 module.exports = function(environment) {
   let ENV = {
-    modulePrefix: 'ember-data-belongs-to-in-includes',
+    modulePrefix: 'ember-data-bug-with-sideloaded-relationships',
     environment,
     rootURL: '/',
     locationType: 'auto',
